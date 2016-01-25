@@ -1,0 +1,28 @@
+name: Peter R. Barnett
+favicon: null
+layout_spectrum: 0.5282655844930559
+typography_spectrum: 0.9873838888015598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5599544830620289
+  lightness: 0.2742262678220868
+  saturation: 0.8995831615757197
+  rhythmicContrast: 0.13668359885923564
+purpose: []
